@@ -1,2 +1,2 @@
-# QuAIT
-All the projects are included in this! Feel free to check it out
+# QuAIT & DSC 
+I’ve mentored 500+ students in AI/ML through Google DSC and Microsoft Student Partner programs—QuAIT reflects that journey.
